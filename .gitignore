@@ -41,4 +41,4 @@ phpunit.phar
 /backend/web/index.php
 /backend/web/index-test.php
 /backend/web/robots.txt
-/console
+/console/migrations/m200612_140229_create_video_table.php
